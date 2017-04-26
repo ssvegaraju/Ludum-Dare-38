@@ -11,8 +11,6 @@ public class Cabinet : MonoBehaviour
     private bool load = false;
     public bool cameraZoom = false;
 
-    private bool once;
-
     private Camera cam;
     private GameObject camer;
 
@@ -43,11 +41,6 @@ public class Cabinet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (k.developerMode && !once)
-        {
-            player.transform.position = this.transform.position;
-            once = true;
-        }
         if (cameraZoom)
         {
             CeasePlayerMovement();

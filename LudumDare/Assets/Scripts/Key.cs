@@ -5,12 +5,11 @@ using UnityEngine;
 public class Key : MonoBehaviour
 {
     private GameObject player;
-    [HideInInspector]
     public bool pickedUp;
     private AudioSource aud;
     public AudioClip keySound;
         
-    public bool developerMode = false;
+    public static bool developerMode = false;
 
     private float startTime;
     private bool waited;
@@ -28,15 +27,7 @@ public class Key : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-        if (developerMode)
-        {
-            Vector3 displacementFromTarget = player.transform.position - transform.position;
-            Vector3 directionToTarget = displacementFromTarget.normalized;
-            Vector3 velocity = directionToTarget * speed;
-            float distanceToTarget = displacementFromTarget.magnitude;
-            transform.Translate(velocity * Time.deltaTime);
-        }
-        else if (pickedUp) {
+        if (pickedUp) {
             waited = Time.time - startTime > 0.1f;
             if (waited)
             {
@@ -44,8 +35,11 @@ public class Key : MonoBehaviour
                 Vector3 directionToTarget = displacementFromTarget.normalized;
                 Vector3 velocity = directionToTarget * speed;
                 float distanceToTarget = displacementFromTarget.magnitude;
-                
-                if (distanceToTarget > 1.5f && pickedUp)
+                if (developerMode)
+                {
+                    transform.Translate(velocity * Time.deltaTime);
+                }
+                else if (distanceToTarget > 1.5f && pickedUp)
                 {
                     transform.Translate(velocity * Time.deltaTime);
                 }
