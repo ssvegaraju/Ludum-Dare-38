@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: be478d36b305f534ebe92e7733e724af
+timeCreated: 1492887094
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Amish Man Idle_0
+    21300002: Amish Man Idle_1
+    21300004: Amish Man Idle_2
+    21300006: Amish Man Idle_3
+    21300008: Amish Man Idle_4
+    21300010: Amish Man Idle_5
+    21300012: Amish Man Idle_6
+    21300014: Amish Man Idle_7
+    21300016: Amish Man Idle_8
+    21300018: Amish Man Idle_9
+    21300020: Amish Man Idle_10
+    21300022: Amish Man Idle_11
+    21300024: Amish Man Idle_12
+    21300026: Amish Man Idle_13
+    21300028: Amish Man Idle_14
+    21300030: Amish Man Idle_15
+    21300032: Amish Man Idle_16
+    21300034: Amish Man Idle_17
+    21300036: Amish Man Idle_18
+    21300038: Amish Man Idle_19
+    21300040: Amish Man Idle_20
+    21300042: Amish Man Idle_21
+    21300044: Amish Man Idle_22
+    21300046: Amish Man Idle_23
+    21300048: Amish Man Idle_24
+    21300050: Amish Man Idle_25
+    21300052: Amish Man Idle_26
+    21300054: Amish Man Idle_27
+    21300056: Amish Man Idle_28
+    21300058: Amish Man Idle_29
+    21300060: Amish Man Idle_30
+    21300062: Amish Man Idle_31
+    21300064: Amish Man Idle_32
+    21300066: Amish Man Idle_33
+    21300068: Amish Man Idle_34
+    21300070: Amish Man Idle_35
+    21300072: Amish Man Idle_36
+    21300074: Amish Man Idle_37
+    21300076: Amish Man Idle_38
+    21300078: Amish Man Idle_39
+    21300080: Amish Man Idle_40
+    21300082: Amish Man Idle_41
+    21300084: Amish Man Idle_42
+    21300086: Amish Man Idle_43
+    21300088: Amish Man Idle_44
+    21300090: Amish Man Idle_45
+    21300092: Amish Man Idle_46
+    21300094: Amish Man Idle_47
+    21300096: Amish Man Idle_48
+    21300098: Amish Man Idle_49
+    21300100: Amish Man Idle_50
+    21300102: Amish Man Idle_51
+    21300104: Amish Man Idle_52
+    21300106: Amish Man Idle_53
+    21300108: Amish Man Idle_54
+    21300110: Amish Man Idle_55
+    21300112: Amish Man Idle_56
+    21300114: Amish Man Idle_57
+    21300116: Amish Man Idle_58
+    21300118: Amish Man Idle_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amish Man Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_5
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_6
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_7
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_8
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6300
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_13
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_14
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_15
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_16
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_17
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5250
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_23
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_24
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_25
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_26
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4200
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_31
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_33
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_34
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_35
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3150
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_40
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_42
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_43
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_44
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2100
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_48
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_49
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_50
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_51
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_52
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_53
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1050
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_57
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_58
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Amish Man Idle_59
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 720
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

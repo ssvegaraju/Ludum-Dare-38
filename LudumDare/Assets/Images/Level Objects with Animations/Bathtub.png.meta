@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 120c8c49dbee23d4cb40e56c2875347a
+timeCreated: 1492906351
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bathtub_0
+    21300002: Bathtub_1
+    21300004: Bathtub_2
+    21300006: Bathtub_3
+    21300008: Bathtub_4
+    21300010: Bathtub_5
+    21300012: Bathtub_6
+    21300014: Bathtub_7
+    21300016: Bathtub_8
+    21300018: Bathtub_9
+    21300020: Bathtub_10
+    21300022: Bathtub_11
+    21300024: Bathtub_12
+    21300026: Bathtub_13
+    21300028: Bathtub_14
+    21300030: Bathtub_15
+    21300032: Bathtub_16
+    21300034: Bathtub_17
+    21300036: Bathtub_18
+    21300038: Bathtub_19
+    21300040: Bathtub_20
+    21300042: Bathtub_21
+    21300044: Bathtub_22
+    21300046: Bathtub_23
+    21300048: Bathtub_24
+    21300050: Bathtub_25
+    21300052: Bathtub_26
+    21300054: Bathtub_27
+    21300056: Bathtub_28
+    21300058: Bathtub_29
+    21300060: Bathtub_30
+    21300062: Bathtub_31
+    21300064: Bathtub_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bathtub_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4200
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4200
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4200
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4200
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3500
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_7
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3500
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3500
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_9
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3500
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2800
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2800
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_13
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2800
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_14
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2800
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2100
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2100
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2100
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_19
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2100
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1400
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1400
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1400
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_24
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1400
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 700
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_27
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 700
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 700
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_29
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 700
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_31
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bathtub_32
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 700
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

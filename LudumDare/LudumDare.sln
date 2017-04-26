@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudumDare.Plugins", "LudumDare.Plugins.csproj", "{DDA62F8F-D3CE-B7FA-6175-AF30CE49C95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudumDare", "LudumDare.csproj", "{BC766CD3-F513-C27B-0670-24268C52D457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudumDare.Editor.Plugins", "LudumDare.Editor.Plugins.csproj", "{2B8CDFEA-7525-25DC-3437-696F3F369001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA62F8F-D3CE-B7FA-6175-AF30CE49C95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA62F8F-D3CE-B7FA-6175-AF30CE49C95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA62F8F-D3CE-B7FA-6175-AF30CE49C95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA62F8F-D3CE-B7FA-6175-AF30CE49C95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC766CD3-F513-C27B-0670-24268C52D457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC766CD3-F513-C27B-0670-24268C52D457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC766CD3-F513-C27B-0670-24268C52D457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC766CD3-F513-C27B-0670-24268C52D457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8CDFEA-7525-25DC-3437-696F3F369001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8CDFEA-7525-25DC-3437-696F3F369001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8CDFEA-7525-25DC-3437-696F3F369001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8CDFEA-7525-25DC-3437-696F3F369001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

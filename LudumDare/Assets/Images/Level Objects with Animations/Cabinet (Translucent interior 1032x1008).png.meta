@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: e8ebce9a07006ca48bc3999d7d3d2c32
+timeCreated: 1493014014
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cabinet (Translucent interior 1032x1008)_0
+    21300002: Cabinet (Translucent interior 1032x1008)_1
+    21300004: Cabinet (Translucent interior 1032x1008)_2
+    21300006: Cabinet (Translucent interior 1032x1008)_3
+    21300008: Cabinet (Translucent interior 1032x1008)_4
+    21300010: Cabinet (Translucent interior 1032x1008)_5
+    21300012: Cabinet (Translucent interior 1032x1008)_6
+    21300014: Cabinet (Translucent interior 1032x1008)_7
+    21300016: Cabinet (Translucent interior 1032x1008)_8
+    21300018: Cabinet (Translucent interior 1032x1008)_9
+    21300020: Cabinet (Translucent interior 1032x1008)_10
+    21300022: Cabinet (Translucent interior 1032x1008)_11
+    21300024: Cabinet (Translucent interior 1032x1008)_12
+    21300026: Cabinet (Translucent interior 1032x1008)_13
+    21300028: Cabinet (Translucent interior 1032x1008)_14
+    21300030: Cabinet (Translucent interior 1032x1008)_15
+    21300032: Cabinet (Translucent interior 1032x1008)_16
+    21300034: Cabinet (Translucent interior 1032x1008)_17
+    21300036: Cabinet (Translucent interior 1032x1008)_18
+    21300038: Cabinet (Translucent interior 1032x1008)_19
+    21300040: Cabinet (Translucent interior 1032x1008)_20
+    21300042: Cabinet (Translucent interior 1032x1008)_21
+    21300044: Cabinet (Translucent interior 1032x1008)_22
+    21300046: Cabinet (Translucent interior 1032x1008)_23
+    21300048: Cabinet (Translucent interior 1032x1008)_24
+    21300050: Cabinet (Translucent interior 1032x1008)_25
+    21300052: Cabinet (Translucent interior 1032x1008)_26
+    21300054: Cabinet (Translucent interior 1032x1008)_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 5040
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_2
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 5040
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_3
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 5040
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_4
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 5040
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_6
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 4032
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_7
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 4032
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4032
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_9
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 4032
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_11
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3024
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_12
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 3024
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_13
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3024
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_14
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 3024
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2016
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_17
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2016
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_18
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2016
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_19
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 2016
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_21
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1008
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_22
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1008
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_23
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1008
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_24
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1008
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_26
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabinet (Translucent interior 1032x1008)_27
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 1032
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

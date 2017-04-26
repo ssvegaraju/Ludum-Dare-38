@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: effd16c954f8a7f46ab879c125950e5f
+timeCreated: 1492839422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Best Cabinet Ever_0
+    21300002: Best Cabinet Ever_1
+    21300004: Best Cabinet Ever_2
+    21300006: Best Cabinet Ever_3
+    21300008: Best Cabinet Ever_4
+    21300010: Best Cabinet Ever_5
+    21300012: Best Cabinet Ever_6
+    21300014: Best Cabinet Ever_7
+    21300016: Best Cabinet Ever_8
+    21300018: Best Cabinet Ever_9
+    21300020: Best Cabinet Ever_10
+    21300022: Best Cabinet Ever_11
+    21300024: Best Cabinet Ever_12
+    21300026: Best Cabinet Ever_13
+    21300028: Best Cabinet Ever_14
+    21300030: Best Cabinet Ever_15
+    21300032: Best Cabinet Ever_16
+    21300034: Best Cabinet Ever_17
+    21300036: Best Cabinet Ever_18
+    21300038: Best Cabinet Ever_19
+    21300040: Best Cabinet Ever_20
+    21300042: Best Cabinet Ever_21
+    21300044: Best Cabinet Ever_22
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Best Cabinet Ever_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_1
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 4032
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_2
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4032
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_3
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4032
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_4
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4032
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3024
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_7
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3024
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_8
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3024
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_9
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3024
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_11
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2016
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_12
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2016
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_13
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2016
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_14
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2016
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_16
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1008
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_17
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1008
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_18
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1008
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_19
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1008
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_21
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Best Cabinet Ever_22
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 1120
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
